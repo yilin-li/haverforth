@@ -1,0 +1,26 @@
+8. Compare and contrast each thing you've done here to your
+   implementation in C++. Answer the following questions:
+
+   - What new perspective did you gain by redoing the lab in
+     JavaScript?
+
+     This lab is an introduction to JS, and I learn how to write basic functions in JS.
+
+   - Can you point to one instance where the lack of types in
+     JavaScript was damaging to your productivity?
+   
+     I was confused about rendorstack function, as I wasn't sure what the term "element" was referring to.
+
+   - Did JavaScript's lack of types surprise you? Or hurt you in any
+     way? Or was it easier than C++ because you didn't have to
+     annotate the program with types? Either answer is fine here, as
+     long as you provide some thoughtful reflection.
+
+	JavaScript's lack of types is similar to Python programming. It makes coding a bit eaiser as I start learning programming with Python. However, compare to C++, I need to be very careful, since any sloppiness in types would not show up in compile time.
+
+   - Describe a few features of programming your previous lab that you
+     used here. For example, describe how you observed any of the
+     following in JS:
+	
+	Using stack directly as an object seems to work well here. I don't need to write public and private class in this case. The Maps is a built in dictionary, and very easy to implement. The typing is very different, as JS does not require explicit type during programming.
+
